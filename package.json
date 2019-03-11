@@ -2,6 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://marii.info/udemy-react"
   "dependencies": {
     "radium": "^0.25.1",
     "react": "^16.8.4",
